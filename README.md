@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons
 
 ## Module icons
 
-Flat white icons used by my WWPlayer modules (Bilibili video / live, Douyin, Twitch, YouTube, Huya, DouYu, AI search). The modules reference them through `WidgetMetadata.icon`, so there is nothing to import.
+Flat white icons used by my WWPlayer modules (Bilibili video / live, Douyin, Twitch, YouTube, Huya, DouYu, Mango TV, iQIYI, AI search). The modules reference them through `WidgetMetadata.icon`, so there is nothing to import.
 
 ## Notes
 
