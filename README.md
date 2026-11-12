@@ -26,6 +26,10 @@ Flat white knockout icons for a few Emby servers: Omega, UHD, Youno Air, OkEmby,
 https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons.json
 ```
 
+## Module icons
+
+Flat white icons used by my WWPlayer modules (Bilibili video / live, Douyin, Twitch, YouTube, Huya, DouYu, AI search). The modules reference them through `WidgetMetadata.icon`, so there is nothing to import.
+
 ## Notes
 
 - Each entry uses the regex `(?!)`, which matches nothing, so neither pack changes resolution, HDR or codec labels. WWPlayer matches studios by name only.
