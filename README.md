@@ -18,6 +18,14 @@ Turns every studio logo in WWPlayer's catalog white, so the row looks uniform. L
 https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/pack-all-white.json
 ```
 
+## Server icons (icon library, 9 icons)
+
+Flat white knockout icons for a few Emby servers: Omega, UHD, Youno Air, OkEmby, ETFLIX, hohai, 垃圾影音, BBemby, NyaMedia. WWPlayer shows the server icon in the corner of the pause screen. Server icons use WWPlayer's **icon library** feature, not badge packs, so add this one under Settings → icon library and pick an icon for each server.
+
+```
+https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons.json
+```
+
 ## Notes
 
 - Each entry uses the regex `(?!)`, which matches nothing, so neither pack changes resolution, HDR or codec labels. WWPlayer matches studios by name only.

@@ -1,0 +1,42 @@
+{
+  "name": "Flat white server icons",
+  "description": "Flat white knockout icons for some Emby servers, made for WWPlayer.",
+  "icons": [
+    {
+      "name": "Omega 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/omega.png"
+    },
+    {
+      "name": "UHD 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/uhd.png"
+    },
+    {
+      "name": "Youno Air 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/youno-air.png"
+    },
+    {
+      "name": "OkEmby 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/okemby.png"
+    },
+    {
+      "name": "ETFLIX 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/etflix.png"
+    },
+    {
+      "name": "hohai 公益 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/hohai.png"
+    },
+    {
+      "name": "垃圾影音 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/laji-yingyin.png"
+    },
+    {
+      "name": "BBemby 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/bbemby.png"
+    },
+    {
+      "name": "NyaMedia 白色镂空",
+      "url": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/server-icons/nyamedia.png"
+    }
+  ]
+}
