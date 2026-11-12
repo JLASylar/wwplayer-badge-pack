@@ -1,0 +1,451 @@
+{
+  "name": "All-white studio logos",
+  "groups": [
+    {
+      "id": "us-brand"
+    }
+  ],
+  "filters": [
+    {
+      "id": "white-dc-studios",
+      "groupId": "us-brand",
+      "name": "DC Studios",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/dc-studios.png"
+    },
+    {
+      "id": "white-dreamworks-pictures",
+      "groupId": "us-brand",
+      "name": "DreamWorks Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/dreamworks-pictures.png"
+    },
+    {
+      "id": "white-illumination",
+      "groupId": "us-brand",
+      "name": "Illumination",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/illumination.png"
+    },
+    {
+      "id": "white-summit-entertainment",
+      "groupId": "us-brand",
+      "name": "Summit Entertainment",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/summit-entertainment.png"
+    },
+    {
+      "id": "white-neon",
+      "groupId": "us-brand",
+      "name": "NEON",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/neon.png"
+    },
+    {
+      "id": "white-cj-enm",
+      "groupId": "us-brand",
+      "name": "CJ ENM",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/cj-enm.png"
+    },
+    {
+      "id": "white-studio-dragon",
+      "groupId": "us-brand",
+      "name": "Studio Dragon",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/studio-dragon.png"
+    },
+    {
+      "id": "white-kakao-entertainment",
+      "groupId": "us-brand",
+      "name": "Kakao Entertainment",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/kakao-entertainment.png"
+    },
+    {
+      "id": "white-walt-disney-pictures",
+      "groupId": "us-brand",
+      "name": "Walt Disney Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/walt-disney-pictures.png"
+    },
+    {
+      "id": "white-walt-disney-animation-studios",
+      "groupId": "us-brand",
+      "name": "Walt Disney Animation Studios",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/walt-disney-animation-studios.png"
+    },
+    {
+      "id": "white-pixar",
+      "groupId": "us-brand",
+      "name": "Pixar",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/pixar.png"
+    },
+    {
+      "id": "white-marvel-studios",
+      "groupId": "us-brand",
+      "name": "Marvel Studios",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/marvel-studios.png"
+    },
+    {
+      "id": "white-lucasfilm",
+      "groupId": "us-brand",
+      "name": "Lucasfilm",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/lucasfilm.png"
+    },
+    {
+      "id": "white-20th-century-studios",
+      "groupId": "us-brand",
+      "name": "20th Century Studios",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/20th-century-studios.png"
+    },
+    {
+      "id": "white-searchlight-pictures",
+      "groupId": "us-brand",
+      "name": "Searchlight Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/searchlight-pictures.png"
+    },
+    {
+      "id": "white-warner-bros-pictures",
+      "groupId": "us-brand",
+      "name": "Warner Bros. Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/warner-bros-pictures.png"
+    },
+    {
+      "id": "white-new-line-cinema",
+      "groupId": "us-brand",
+      "name": "New Line Cinema",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/new-line-cinema.png"
+    },
+    {
+      "id": "white-universal-pictures",
+      "groupId": "us-brand",
+      "name": "Universal Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/universal-pictures.png"
+    },
+    {
+      "id": "white-focus-features",
+      "groupId": "us-brand",
+      "name": "Focus Features",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/focus-features.png"
+    },
+    {
+      "id": "white-paramount-pictures",
+      "groupId": "us-brand",
+      "name": "Paramount Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/paramount-pictures.png"
+    },
+    {
+      "id": "white-nickelodeon-movies",
+      "groupId": "us-brand",
+      "name": "Nickelodeon Movies",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/nickelodeon-movies.png"
+    },
+    {
+      "id": "white-columbia-pictures",
+      "groupId": "us-brand",
+      "name": "Columbia Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/columbia-pictures.png"
+    },
+    {
+      "id": "white-tristar-pictures",
+      "groupId": "us-brand",
+      "name": "TriStar Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/tristar-pictures.png"
+    },
+    {
+      "id": "white-sony-pictures-animation",
+      "groupId": "us-brand",
+      "name": "Sony Pictures Animation",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/sony-pictures-animation.png"
+    },
+    {
+      "id": "white-metro-goldwyn-mayer",
+      "groupId": "us-brand",
+      "name": "Metro-Goldwyn-Mayer",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/metro-goldwyn-mayer.png"
+    },
+    {
+      "id": "white-united-artists",
+      "groupId": "us-brand",
+      "name": "United Artists",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/united-artists.png"
+    },
+    {
+      "id": "white-amazon-mgm-studios",
+      "groupId": "us-brand",
+      "name": "Amazon MGM Studios",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/amazon-mgm-studios.png"
+    },
+    {
+      "id": "white-lionsgate",
+      "groupId": "us-brand",
+      "name": "Lionsgate",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/lionsgate.png"
+    },
+    {
+      "id": "white-a24",
+      "groupId": "us-brand",
+      "name": "A24",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/a24.png"
+    },
+    {
+      "id": "white-miramax",
+      "groupId": "us-brand",
+      "name": "Miramax",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/miramax.png"
+    },
+    {
+      "id": "white-blumhouse-productions",
+      "groupId": "us-brand",
+      "name": "Blumhouse Productions",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/blumhouse-productions.png"
+    },
+    {
+      "id": "white-legendary-entertainment",
+      "groupId": "us-brand",
+      "name": "Legendary Entertainment",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/legendary-entertainment.png"
+    },
+    {
+      "id": "white-village-roadshow-pictures",
+      "groupId": "us-brand",
+      "name": "Village Roadshow Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/village-roadshow-pictures.png"
+    },
+    {
+      "id": "white-skydance-media",
+      "groupId": "us-brand",
+      "name": "Skydance Media",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/skydance-media.png"
+    },
+    {
+      "id": "white-annapurna-pictures",
+      "groupId": "us-brand",
+      "name": "Annapurna Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/annapurna-pictures.png"
+    },
+    {
+      "id": "white-regency-enterprises",
+      "groupId": "us-brand",
+      "name": "Regency Enterprises",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/regency-enterprises.png"
+    },
+    {
+      "id": "white-orion-pictures",
+      "groupId": "us-brand",
+      "name": "Orion Pictures",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/orion-pictures.png"
+    },
+    {
+      "id": "white-plan-b-entertainment",
+      "groupId": "us-brand",
+      "name": "Plan B Entertainment",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/plan-b-entertainment.png"
+    },
+    {
+      "id": "white-imagine-entertainment",
+      "groupId": "us-brand",
+      "name": "Imagine Entertainment",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/imagine-entertainment.png"
+    },
+    {
+      "id": "white-bad-robot",
+      "groupId": "us-brand",
+      "name": "Bad Robot",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/bad-robot.png"
+    },
+    {
+      "id": "white-syncopy",
+      "groupId": "us-brand",
+      "name": "Syncopy",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/syncopy.png"
+    },
+    {
+      "id": "white-studiocanal",
+      "groupId": "us-brand",
+      "name": "StudioCanal",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/studiocanal.png"
+    },
+    {
+      "id": "white-gaumont",
+      "groupId": "us-brand",
+      "name": "Gaumont",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/gaumont.png"
+    },
+    {
+      "id": "white-bbc-film",
+      "groupId": "us-brand",
+      "name": "BBC Film",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/bbc-film.png"
+    },
+    {
+      "id": "white-constantin-film",
+      "groupId": "us-brand",
+      "name": "Constantin Film",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/constantin-film.png"
+    },
+    {
+      "id": "white-bavaria-film",
+      "groupId": "us-brand",
+      "name": "Bavaria Film",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/bavaria-film.png"
+    },
+    {
+      "id": "white-nordisk-film",
+      "groupId": "us-brand",
+      "name": "Nordisk Film",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/nordisk-film.png"
+    },
+    {
+      "id": "white-wild-bunch",
+      "groupId": "us-brand",
+      "name": "Wild Bunch",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/wild-bunch.png"
+    },
+    {
+      "id": "white-rai-cinema",
+      "groupId": "us-brand",
+      "name": "RAI Cinema",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/rai-cinema.png"
+    },
+    {
+      "id": "white-toho",
+      "groupId": "us-brand",
+      "name": "Toho",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/toho.png"
+    },
+    {
+      "id": "white-shochiku",
+      "groupId": "us-brand",
+      "name": "Shochiku",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/shochiku.png"
+    },
+    {
+      "id": "white-kadokawa",
+      "groupId": "us-brand",
+      "name": "KADOKAWA",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/kadokawa.png"
+    },
+    {
+      "id": "white-studio-ghibli",
+      "groupId": "us-brand",
+      "name": "Studio Ghibli",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/studio-ghibli.png"
+    },
+    {
+      "id": "white-aniplex",
+      "groupId": "us-brand",
+      "name": "Aniplex",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/aniplex.png"
+    },
+    {
+      "id": "white-tms-entertainment",
+      "groupId": "us-brand",
+      "name": "TMS Entertainment",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/tms-entertainment.png"
+    },
+    {
+      "id": "white-production-i-g",
+      "groupId": "us-brand",
+      "name": "Production I.G",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/production-i-g.png"
+    },
+    {
+      "id": "white-mappa",
+      "groupId": "us-brand",
+      "name": "MAPPA",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/mappa.png"
+    },
+    {
+      "id": "white-ufotable",
+      "groupId": "us-brand",
+      "name": "ufotable",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/ufotable.png"
+    },
+    {
+      "id": "white-kyoto-animation",
+      "groupId": "us-brand",
+      "name": "Kyoto Animation",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/kyoto-animation.png"
+    },
+    {
+      "id": "white-comix-wave-films",
+      "groupId": "us-brand",
+      "name": "CoMix Wave Films",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/comix-wave-films.png"
+    },
+    {
+      "id": "white-olm",
+      "groupId": "us-brand",
+      "name": "OLM",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/olm.png"
+    },
+    {
+      "id": "white-robot-communications",
+      "groupId": "us-brand",
+      "name": "Robot Communications",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/robot-communications.png"
+    },
+    {
+      "id": "white-showbox",
+      "groupId": "us-brand",
+      "name": "Showbox",
+      "pattern": "(?!)",
+      "imageURL": "https://raw.githubusercontent.com/JLASylar/wwplayer-badge-pack/main/logos-all/showbox.png"
+    }
+  ]
+}
